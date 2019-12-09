@@ -26,7 +26,10 @@ section#s3{
 section#s4{
   background-color: #3a779e;
 }
-
+.card-body
+{
+  background-color:#7bb9e0;
+}
 .toTop-arrow {
 	width: 2.5rem;
 	height: 2.5rem;
